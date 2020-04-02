@@ -1,6 +1,6 @@
 # Data Science Resources
 
-[Mehrgol Tiv](www.mehrgoltiv.com)
+[Mehrgol Tiv](https://www.mehrgoltiv.com)
 
 Check out this [data demo](https://mehrgoltiv.github.io/RstatsLangSci/Demo) I developed for language scientists to practice introductory stats & data science in R.
 
