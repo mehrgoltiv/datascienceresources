@@ -17,6 +17,7 @@ Check out this [data demo](https://mehrgoltiv.github.io/RstatsLangSci/Demo) I de
 - [R Companion for the Handbook of Biological Statistics](https://rcompanion.org/rcompanion/d_04.html)
 - [Experiment Design & Analysis](https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
 - [Danielle Navarro's Entire Website](https://djnavarro.net/teaching/)
+- [Julia Silge's Data Science Blog](https://juliasilge.com/blog/)
 
 ## Visualization 
 
