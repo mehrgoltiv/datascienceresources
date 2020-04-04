@@ -11,10 +11,12 @@ Check out this [data demo](https://mehrgoltiv.github.io/RstatsLangSci/Demo) I de
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 - [R Packages](https://r-pkgs.org)
 - [Introduction to Open Data Science](http://ohi-science.org/data-science-training/)
+- [R Open Sci](https://discuss.ropensci.org)
 - [Introduction to R](http://statseducation.com/Introduction-to-R/)
 - [Introductory Statistics](https://openstax.org/books/introductory-statistics/pages/1-introduction)
 - [R Companion for the Handbook of Biological Statistics](https://rcompanion.org/rcompanion/d_04.html)
 - [Experiment Design & Analysis](https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
+- [Danielle Navarro's Entire Website](https://djnavarro.net/teaching/)
 
 ## Visualization 
 
