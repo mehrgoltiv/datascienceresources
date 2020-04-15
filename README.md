@@ -18,6 +18,7 @@ Check out this [data demo](https://mehrgoltiv.github.io/RstatsLangSci/Demo) I de
 - [Experiment Design & Analysis](https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
 - [Danielle Navarro's Entire Website](https://djnavarro.net/teaching/)
 - [Julia Silge's Data Science Blog](https://juliasilge.com/blog/)
+- [Linking Git and R](https://happygitwithr.com/index.html#license)
 
 ## Visualization 
 
