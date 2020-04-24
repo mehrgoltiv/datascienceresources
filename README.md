@@ -19,6 +19,7 @@ Check out this [data demo](https://mehrgoltiv.github.io/RstatsLangSci/Demo) I de
 - [Danielle Navarro's Entire Website](https://djnavarro.net/teaching/)
 - [Julia Silge's Data Science Blog](https://juliasilge.com/blog/)
 - [Linking Git and R](https://happygitwithr.com/index.html#license)
+- [Shiny App](https://deanattali.com/2015/06/14/mimicking-google-form-shiny/) 
 
 ## Visualization 
 
@@ -34,3 +35,14 @@ Check out this [data demo](https://mehrgoltiv.github.io/RstatsLangSci/Demo) I de
 - [ggpubr](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/#cowplot-publication-ready-plots)
 - [Introduction to ggraph](https://www.data-imaginist.com/2017/ggraph-introduction-edges/)
 - [Tufte in R](http://motioninsocial.com/tufte/)
+
+### Networks
+
+- [Intro to ggraph](https://www.data-imaginist.com/2017/ggraph-introduction-edges/)
+- [Network Visualizations in R](http://mr.schochastics.net/netVizR.html)
+- [Network Analysis & Visualization in R w/ igraph](https://kateto.net/networks-r-igraph)
+- [Tidygraph & igraph](http://michaelntaylor.ca/post/2018/06/06/tidygraph-and-ggraph/)
+- [Network Visualization with R](http://www.kateto.net/wp-content/uploads/2019/06/Sunbelt%202019%20R%20Network%20Visualization%20Workshop.pdf) 
+- [Intro to ggraph](http://users.dimi.uniud.it/~massimo.franceschet/ns/syllabus/make/ggraph/ggraph.html) 
+- [egor](https://cran.rstudio.com/web/packages/egor/vignettes/using_egor.html)
+
