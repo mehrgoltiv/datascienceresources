@@ -20,6 +20,7 @@ Check out this [data demo](https://mehrgoltiv.github.io/RstatsLangSci/Demo) I de
 - [Julia Silge's Data Science Blog](https://juliasilge.com/blog/)
 - [Linking Git and R](https://happygitwithr.com/index.html#license)
 - [Shiny App](https://deanattali.com/2015/06/14/mimicking-google-form-shiny/) 
+- [Swirl Stats](https://swirlstats.com/students.html) 
 
 ## Visualization 
 
