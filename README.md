@@ -4,6 +4,8 @@
 
 Check out this [data demo](https://mehrgoltiv.github.io/RstatsLangSci/Demo) I developed for language scientists to practice introductory stats & data science in R.
 
+I am constantly expanding this list! If you have suggestions for resources that can be added to this list (blogs/tutorials/workshops you have created or found), please hit me up.
+
 ## General 
 
 - [R for Data Science](https://r4ds.had.co.nz)
