@@ -48,4 +48,5 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [Network Visualization with R](http://www.kateto.net/wp-content/uploads/2019/06/Sunbelt%202019%20R%20Network%20Visualization%20Workshop.pdf) 
 - [Intro to ggraph](http://users.dimi.uniud.it/~massimo.franceschet/ns/syllabus/make/ggraph/ggraph.html) 
 - [egor](https://cran.rstudio.com/web/packages/egor/vignettes/using_egor.html)
+- [Basic Network Analysis](https://jfaganuk.github.io/2015/01/24/basic-network-analysis/#local-position)
 
