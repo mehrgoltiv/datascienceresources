@@ -23,6 +23,7 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [Linking Git and R](https://happygitwithr.com/index.html#license)
 - [Shiny App](https://deanattali.com/2015/06/14/mimicking-google-form-shiny/) 
 - [Swirl Stats](https://swirlstats.com/students.html) 
+- [Stat 545 Data Wrangling in R](https://stat545.com)
 
 ## Visualization 
 
