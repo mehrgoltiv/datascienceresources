@@ -24,6 +24,7 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [Shiny App](https://deanattali.com/2015/06/14/mimicking-google-form-shiny/) 
 - [Swirl Stats](https://swirlstats.com/students.html) 
 - [Stat 545 Data Wrangling in R](https://stat545.com)
+- [Installing R and R Studio](https://towardsdatascience.com/r-basics-getting-started-with-r-and-rstudio-b47664eb5baf) 
 
 ## Visualization 
 
