@@ -20,7 +20,6 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [Experiment Design & Analysis](https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
 - [Danielle Navarro's Entire Website](https://djnavarro.net/teaching/)
 - [Julia Silge's Data Science Blog](https://juliasilge.com/blog/)
-- [Linking Git and R](https://happygitwithr.com/index.html#license)
 - [Shiny App](https://deanattali.com/2015/06/14/mimicking-google-form-shiny/) 
 - [Swirl Stats](https://swirlstats.com/students.html) 
 - [Stat 545 Data Wrangling in R](https://stat545.com)
@@ -52,4 +51,9 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [egor](https://cran.rstudio.com/web/packages/egor/vignettes/using_egor.html)
 - [Basic Network Analysis](https://jfaganuk.github.io/2015/01/24/basic-network-analysis/#local-position)
 - [Borgatti's Ego Network Analysis slides](http://www.analytictech.com/mgt780/slides/egonet1.pdf)
+
+### Version Control (Git)
+- [Happy Git](https://happygitwithr.com)
+- [Linking existing Git/R](https://happygitwithr.com/existing-github-last.html)
+- [Linking Git and R](https://happygitwithr.com/index.html#license)
 
