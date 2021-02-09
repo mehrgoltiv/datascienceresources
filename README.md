@@ -56,4 +56,5 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [Happy Git](https://happygitwithr.com)
 - [Linking existing Git/R](https://happygitwithr.com/existing-github-last.html)
 - [Linking Git and R](https://happygitwithr.com/index.html#license)
+- [R Studio Git tab disappears](https://community.rstudio.com/t/git-tab-no-longer-appearing/51046)
 
