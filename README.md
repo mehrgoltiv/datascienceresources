@@ -51,6 +51,7 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [egor](https://cran.rstudio.com/web/packages/egor/vignettes/using_egor.html)
 - [Basic Network Analysis](https://jfaganuk.github.io/2015/01/24/basic-network-analysis/#local-position)
 - [Borgatti's Ego Network Analysis slides](http://www.analytictech.com/mgt780/slides/egonet1.pdf)
+- [Applied SNA with R](https://gvegayon.github.io/appliedsnar/)
 
 ### Version Control (Git)
 - [Happy Git](https://happygitwithr.com)
