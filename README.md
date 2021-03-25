@@ -24,6 +24,8 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [Swirl Stats](https://swirlstats.com/students.html) 
 - [Stat 545 Data Wrangling in R](https://stat545.com)
 - [Installing R and R Studio](https://towardsdatascience.com/r-basics-getting-started-with-r-and-rstudio-b47664eb5baf) 
+- [Effect Size Statistics](https://www.theanalysisfactor.com/effect-size/)
+- [Robust Regression](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Robust_Regression.pdf)
 
 ## Visualization 
 
