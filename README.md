@@ -54,6 +54,8 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [Basic Network Analysis](https://jfaganuk.github.io/2015/01/24/basic-network-analysis/#local-position)
 - [Borgatti's Ego Network Analysis slides](http://www.analytictech.com/mgt780/slides/egonet1.pdf)
 - [Applied SNA with R](https://gvegayon.github.io/appliedsnar/)
+- [Preparing Network Data in R](https://www.mjdenny.com/Preparing_Network_Data_In_R.html)
+- 
 
 ### Version Control (Git)
 - [Happy Git](https://happygitwithr.com)
