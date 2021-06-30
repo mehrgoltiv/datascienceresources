@@ -55,7 +55,7 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [Borgatti's Ego Network Analysis slides](http://www.analytictech.com/mgt780/slides/egonet1.pdf)
 - [Applied SNA with R](https://gvegayon.github.io/appliedsnar/)
 - [Preparing Network Data in R](https://www.mjdenny.com/Preparing_Network_Data_In_R.html)
-- 
+- [Statnet & ERGM tutorials in R](https://github.com/statnet/Workshops/wiki)
 
 ### Version Control (Git)
 - [Happy Git](https://happygitwithr.com)
