@@ -41,6 +41,7 @@ I am constantly expanding this list! If you have suggestions for resources that 
 - [ggpubr](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/#cowplot-publication-ready-plots)
 - [Introduction to ggraph](https://www.data-imaginist.com/2017/ggraph-introduction-edges/)
 - [Tufte in R](http://motioninsocial.com/tufte/)
+- [Color Palette Generator](https://mycolor.space)
 
 ### Networks
 
